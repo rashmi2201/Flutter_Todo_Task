@@ -1,5 +1,18 @@
 # flutter_todo_app
 
+# Screenshot
+<img src="https://github.com/rashmi2201/Flutter_Todo_Task/blob/main/outputs/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202025-07-12%20at%2010.49.33.png" height="400">
+
+<img src="
+https://github.com/rashmi2201/Flutter_Todo_Task/blob/main/outputs/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202025-07-12%20at%2010.50.00.png" height="400">
+
+# Screenshot
+<img src="https://github.com/rashmi2201/Flutter_Todo_Task/blob/main/outputs/Simulator%20Screenshot%20-%20iPhone%20SE%20(3rd%20generation)%20-%202025-07-12%20at%2010.50.26.png
+" height="400">
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
